@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & outputs
+data/*
+!data/README.md
+results/*
+reports/*.pdf
+
+# OS / editors
+.DS_Store
+.vscode/
