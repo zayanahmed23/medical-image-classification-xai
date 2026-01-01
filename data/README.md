@@ -1,8 +1,7 @@
-# Dataset
+## Dataset Source
+Chest X-Ray Images (Pneumonia), publicly available via Kaggle.
 
-This project uses a public chest X-ray dataset for pneumonia classification.
+The dataset follows the standard train/val/test split and is organized
+in ImageFolder-compatible format.
 
-## Notes
-- Do not upload medical datasets to the repository.
-- Keep datasets in this folder locally.
-- Add download instructions/links here (without uploading the data itself).
+Due to data size and licensing, images are not included in this repository.
