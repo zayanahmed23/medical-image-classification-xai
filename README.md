@@ -22,3 +22,9 @@ The dataset is not included in this repository. See `data/README.md` for downloa
 ## Status
 Active research prototype (ongoing).
 This will be edited overtime as my project pushes to completion.
+
+## Experimental Pipeline
+1. Train baseline CNN on chest X-ray dataset
+2. Evaluate classification performance
+3. Generate post-hoc explanations
+4. Assess faithfulness and reliability
