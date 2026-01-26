@@ -1,7 +1,7 @@
 ## Dataset Source
-Chest X-Ray Images (Pneumonia), publicly available via Kaggle.
+Chest X-Ray Images (Pneumonia) by Paul Mooney (Kaggle).
 
-The dataset follows the standard train/val/test split and is organized
-in ImageFolder-compatible format.
+The dataset contains chest radiographs labeled as NORMAL or PNEUMONIA
+and is organized into predefined train/validation/test splits.
 
-Due to data size and licensing, images are not included in this repository.
+Images are not included in this repository due to size and licensing constraints.
