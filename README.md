@@ -104,6 +104,6 @@ This project was conducted to gain hands-on research experience in medical imagi
 
 
 ## Author
-Zayan Ahmed 
-Background: Data Science / Machine Learning  
+Zayan Ahmed
+Background: Data Science / Machine Learning
 Research Interests: Explainable AI, Model Robustness, Machine Learning, Artificial Intelligence
